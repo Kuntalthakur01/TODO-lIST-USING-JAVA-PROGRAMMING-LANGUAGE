@@ -16,7 +16,7 @@ This repository contains a  Java program to create and manage a personal todo li
 # Collaborator:
  [Poojan Vig ](https://github.com/poojanvig)
 
- [Nisarg Seth ]()
+ [Nisarg Seth ](https://github.com/Nisargsheth45)
  
 # Getting Started
 To get started with this program, you need to have Java installed on your computer. You can download Java from the official website here.
