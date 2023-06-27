@@ -5,10 +5,7 @@
 https://github.com/Kuntalthakur01/TODO-lIST-USING-JAVA-PROGRAMMING-LANGUAGE/assets/80209678/8c9506b1-abf1-426d-ab7d-e73174777460
 
 
-# Collaborator:
- [Poojan Vig ](https://github.com/poojanvig)
 
- [Nisarg Seth ]()
 
 
 
@@ -18,6 +15,12 @@ This repository contains a simple command-line Java program to create and manage
 Getting Started
 To get started with this program, you need to have Java installed on your computer. You can download Java from the official website here.
 
+# Collaborator:
+ [Poojan Vig ](https://github.com/poojanvig)
+
+ [Nisarg Seth ]()
+
+ 
 # Usage
 To use this program, follow these steps:
 Clone this repository to your local machine.
