@@ -5,6 +5,12 @@
 https://github.com/Kuntalthakur01/TODO-lIST-USING-JAVA-PROGRAMMING-LANGUAGE/assets/80209678/8c9506b1-abf1-426d-ab7d-e73174777460
 
 
+# Collaborator:
+ [Poojan Vig ](https://github.com/poojanvig)
+
+ [Nisarg Seth ]()
+
+
 
 # TODO-lIST-USING-JAVA-PROGRAMMING-LANGUAGE
 
@@ -24,12 +30,9 @@ java TodoList
 
 Follow the on-screen instructions to create and manage your todo list.
 
-# Contributors
 
-# Collaborator:
- [Poojan Vig ](https://github.com/poojanvig)
 
-[Nisarg Seth ]()
+
 
 
 
