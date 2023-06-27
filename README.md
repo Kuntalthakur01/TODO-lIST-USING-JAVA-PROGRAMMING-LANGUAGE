@@ -14,9 +14,9 @@ https://github.com/Kuntalthakur01/TODO-lIST-USING-JAVA-PROGRAMMING-LANGUAGE/asse
 This repository contains a  Java program to create and manage a personal todo list. The program is menu-driven, and the user will be presented with available options corresponding to the selected menu. The user will select an option from the given choices and press the ENTER key to move to the next step. This program will save all tasks in the data file .
 
 # Collaborator:
- [Poojan Vig ](https://github.com/poojanvig)
+### [Poojan Vig ](https://github.com/poojanvig)
 
- [Nisarg Seth ](https://github.com/Nisargsheth45)
+### [Nisarg Seth ](https://github.com/Nisargsheth45)
  
 # Getting Started
 To get started with this program, you need to have Java installed on your computer. You can download Java from the official website here.
